@@ -1,0 +1,17 @@
+{
+    "name": "omar/lah",
+    "description": "projet-composer",
+    "authors": [
+        {
+            "name": "Omar Lahouaichri",
+            "email": "lahouaichri.omar@gmail.com"
+        }
+],
+        "autoload": {
+            "psr-4": {
+                "App\\": "src/"
+            }
+        },
+    
+    "require": {}
+}
